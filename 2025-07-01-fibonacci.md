@@ -2,7 +2,7 @@
 
 Wir schreiben den 01. Juli 2025 und ich bin in meinem Fullstack Webdevelopment Kurs nun endlich in der "Intermediate Javascript" Sektion angekommen.
 
-Danke Angela, für deine Mühen diesen Kurs auf die Beine zu stellen. Danke für deine nette Art und die abwechslungsreichen Aufgaben. Nun, ich und Javascript ist so ein Ding (Spoiler: Wir hassen uns.), denn die letzten Monate habe ich damit verbracht nur in GDSkript zu schreiben (Spoiler: Ich liebe GDSkript.). Und jetzt aufeinmal kommt JavaScript, um die Ecke und will, dass ich nach jedem zweiten Satzzeichen {},[] oder ; schreibe. Im Ernst? Du hast so viel Syntax, da wird man ganz wuschig im Kopf.
+Danke Angela, für deine Mühen diesen Kurs auf die Beine zu stellen. Danke für deine nette Art und die abwechslungsreichen Aufgaben. Nun, ich und Javascript ist so ein Ding (Spoiler: Wir hassen uns.), denn die letzten Monate habe ich damit verbracht nur in GDSkript zu schreiben (Spoiler: Ich liebe GDSkript.). Und jetzt auf einmal kommt JavaScript um die Ecke und will, dass ich nach jedem zweiten Satzzeichen {}, [] oder ; schreibe. Im Ernst? Du hast so viel Syntax, da wird man ganz wuschig im Kopf.
 
 Naja, so wie es eben ist mit den Kursen, kommt es irgendwann an den Punkt, dass die Aufgaben - sagen wir mal - etwas "innovativer" werden. Hier hast du Arrays, while, if und for-loop. Bau doch mal die Fibonacci-Sequenz nach!
 
