@@ -2,7 +2,7 @@
 
 Ja, ich weiß - Hot Take. 
 Aber Open World Games spielen fühlt sich für mich an, als würde mich meine Frau einkaufen schicken. 
-Ich soll ´ne Packung Milch holen und am Ende komme ich mit drei Packungen Schokobons, zwei Bubble Tea und ´ner Ananas zurück. Nur natürlich die Milch hab ich natürlich vergessen.
+Ich soll ´ne Packung Milch holen und am Ende komme ich mit drei Packungen Schokobons, zwei Bubble Tea und ´ner Ananas zurück. Nur die Milch hab ich natürlich vergessen.
 
 Eventuell liegt´s an meiner neurodiversen Sichtweise, aber ich würde gerne Mal wieder etwas Vorhersehbares machen. Etwas mit Struktur. Und nicht die fünf fehlenden Zähne von Yotos Großmutter aus dem Dorf Leckmichdoch suchen - nur um sie dann für 3 Goldmünzen wieder abzugeben. Auf dem Weg finde ich dann vermutlich noch 50 rote Beeren, 10 Wildschweine und irgendein mysteriöses Item, mit dem ich nichts anfangen kann.
 
